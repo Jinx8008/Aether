@@ -1,0 +1,11 @@
+Model Information:
+* title:	MET01 Meteor
+* source:	https://sketchfab.com/3d-models/met01-meteor-af6e52792eed4302bf04368aa5e9a67e
+* author:	Hodisfut (https://sketchfab.com/Hodisfut)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MET01 Meteor" (https://sketchfab.com/3d-models/met01-meteor-af6e52792eed4302bf04368aa5e9a67e) by Hodisfut (https://sketchfab.com/Hodisfut) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

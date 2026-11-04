@@ -1,0 +1,8 @@
+Model Information:
+* title:	Asteroid
+* source:	https://sketchfab.com/3d-models/asteroid-db23ad6d291a434487749f3469982863
+* author:	WeSVa (https://sketchfab.com/WSVideoCarta)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
